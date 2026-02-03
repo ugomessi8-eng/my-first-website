@@ -54,3 +54,16 @@ li {
     width: 90%;
   }
 }
+.dark-mode {
+  background-color: #121212;
+  color: #f4f6f8;
+}
+
+.dark-mode li {
+  background-color: #1e1e1e;
+  color: #f4f6f8;
+}
+
+.dark-mode button {
+  background-color: #333;
+}
